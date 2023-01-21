@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Remediation Status Alert</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+
+<body style="margin: 0; padding: 0;">
+    <table align="center" border="1" cellpadding="0" cellspacing="0" width="600" style="border-collapse: collapse;">
+
+    <tr>
+        <td align="center" bgcolor="#70bbd9" style="padding: 40px 0 30px 0;">
+            <h1>Hi Team !!!</h1>
+            <h3 style="color:black">Thanks you for choosing email Alert</h3>
+            <img src="https://png.pngtree.com/png-vector/20191213/ourlarge/pngtree-email-envelope-concept-png-image_2082902.jpg" alt="Creating Email Magic." width="300" height="230" style="display: block;" />
+            <h1 style="color:black"><a href="https://www.youtube.com/channel/UC3_Dhv2uQdpgirT6woodPHg">Welcome To ShowBeyondDoubt</a></h1>
+        </td>
+    </tr>
+    </table>
+</body>
+
+</html>
